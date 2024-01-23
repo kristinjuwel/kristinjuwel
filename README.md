@@ -6,6 +6,8 @@
 </h3>
 
 <h3 align="left">Academics: </h3>
+
+<img src="https://www.upm.edu.ph/wp-content/themes/University%20of%20the%20Philippines%20Manila/images/global/logo-old.png" alt="ALT_TEXT" style="width: auto; height: 30px;">
 <p align="left">
   <ul>
     <li>Currently pursuing a degree of Bachelor of Science in Computer Science at the University of the Philippines - Manila</li>
