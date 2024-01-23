@@ -1,9 +1,20 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jewel%F0%9F%92%8E+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jewel%F0%9F%92%8E+" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=ADF5F7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=.An+aspiring+full-stack+web+developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&&color=C3E8F7&repeat=false&random=false&width=435&lines=An+aspiring+full-stack+web+developer." alt="Typing SVG" /></a>
 </h3>
+
+
+<h3 align="left">Organizations: </h3>
+
+
+
+
+<h3 align="left">Connect with Me: </h3>
+<p align="left">
+<a href="https://linkedin.com/in/kristine-jewel-malimban-071249299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristine jewel malimban" height="30" width="40" /></a>
+</p>
 
 <p align="left">
 </p>
