@@ -1,10 +1,10 @@
-<img src="./readme.png" alt="ALT_TEXT" style="width: auto; height: 50px;">
+<img src="./readme.png" alt="ALT_TEXT" style="width: auto; height: auto;">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jewel%F0%9F%92%8E+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F6CEFC&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jewel%F0%9F%92%8E+" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&&color=C3E8F7&repeat=false&random=false&width=435&lines=An+aspiring+full-stack+web+developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&repeat=false&random=false&width=435&lines=An+aspiring+full-stack+web+developer." alt="Typing SVG" /></a>
 </h3>
 
 <h3 align="left">Academics: </h3>
