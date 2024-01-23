@@ -5,8 +5,45 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&&color=C3E8F7&repeat=false&random=false&width=435&lines=An+aspiring+full-stack+web+developer." alt="Typing SVG" /></a>
 </h3>
 
+<h3 align="left">Academics: </h3>
+<p align="left">
+  <ul>
+    <li>Currently pursuing a degree of Bachelor of Science in Computer Science at the University of the Philippines - Manila</li>
+    <li>Major in Health Informatics</li>
+  </ul>
+</p>
+
 
 <h3 align="left">Organizations: </h3>
+<p align="left">
+<img src="./socomsci.png" alt="ALT_TEXT" style="width: auto; height: 30px;">
+<img src="./GDSC.png" alt="ALT_TEXT" style="width: auto; height: 30px;">
+<img src="./levelup.png" alt="ALT_TEXT" style="width: auto; height: 30px;">
+</p>
+
+<h5>University of the Philippines Society of Computer Scientists (UP SoComSci)</h5>
+<h6> 
+  <ul>
+    <li>VP for Memberships (2023 - Current)</li>
+    <li>BM for Logistics and Career Development (2022 - 2023)</li>
+    <li>Creatives Committee Member ( 2021 - 2022)</li>
+  </ul>
+</h6>
+
+<h5>Google Developer Student Clubs - UP Manila(GDSC)</h5>
+<h6>
+  <ul>
+    <li>Chief Technology Officer (2023 - Current)</li>
+    <li>Creatives and Branding Officer (2022 - 2023)</li>
+  </ul>
+</h6>
+
+<h5>Level UP Manila</h5>
+<h6>
+  <ul>
+    <li>Head of Marketing (2023 - Current)</li>
+  </ul>
+</h6>
 
 
 
