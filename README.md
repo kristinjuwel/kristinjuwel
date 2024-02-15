@@ -28,7 +28,7 @@
 <h5>University of the Philippines Society of Computer Scientists (UP SoComSci)</h5>
 <h6> 
   <ul>
-    <li>VP for Memberships (2023 - Current)</li>
+    <li>VP for Members (2023 - Current)</li>
     <li>BM for Logistics and Career Development (2022 - 2023)</li>
     <li>Creatives Committee Member ( 2021 - 2022)</li>
   </ul>
